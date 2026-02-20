@@ -1,0 +1,8 @@
+# Ignora a pasta de configurações do IntelliJ inteira
+**/.idea/
+
+# Ignora arquivos de projeto
+*.iml
+
+# Ignora a pasta onde o Java cria os arquivos prontos pra rodar
+out/
